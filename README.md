@@ -1,2 +1,2 @@
-# Python-boot-camp-ML
+# MAchine Learning Prediction Project
 Machine learning WS
