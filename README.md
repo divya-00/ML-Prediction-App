@@ -24,7 +24,7 @@ It is lightweight and runs in the terminal or Google Colab environment.
 
 ## Live Demo
 
-[Click here to try on Google Colab](https://colab.research.google.com/drive/19cHk3g4pZnjPGbtVKKqAaVRpX-QIGgYi?usp=sharing) *(replace with your Colab notebook link)*
+[Click here to try on Google Colab](https://colab.research.google.com/drive/19cHk3g4pZnjPGbtVKKqAaVRpX-QIGgYi?usp=sharing) 
 
 ---
 
